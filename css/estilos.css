@@ -532,6 +532,7 @@ section .subtitulo-h2{
         margin: 10px 10px;
     }
     #anuncio{
+        display: flex;
         flex-direction: row;
         margin-bottom: 15px;
     }
@@ -609,6 +610,7 @@ section .subtitulo-h2{
         margin: 15px auto;
     }
     #anuncio{
+        display: flex;
         flex-direction: column;
     }
     .pre-venda{
