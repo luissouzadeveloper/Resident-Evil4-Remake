@@ -526,7 +526,7 @@ section .subtitulo-h2{
     .plataformas-games{
         flex-direction: column;
         margin: auto;
-        width: 60%;
+        width: 40%;
     }
     .plataformas-games img{
         margin: 10px 10px;
